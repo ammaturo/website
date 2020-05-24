@@ -1,0 +1,4 @@
+baseURL = "https://ammaturo.de/"
+languageCode = "en-us"
+title = "Annas website"
+theme = "xmin"
