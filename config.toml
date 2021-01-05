@@ -1,4 +1,15 @@
 baseURL = "https://ammaturo.de/"
 languageCode = "de-DE"
 title = "Anna Ammaturo"
-theme = "eureka"
+theme = "hugo-creative-portfolio-theme"
+relativeURLs = true
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+
+[[params.navlinks]]
+  name = "Home"
+  url = "posts/"
+  home = true
