@@ -1,4 +1,4 @@
-baseURL = "http://ammaturo.de/"
+baseURL = "https://ammaturo.de/"
 languageCode = "de-DE"
 title = "Anna Ammaturo"
 theme = "hugo-creative-portfolio-theme"
